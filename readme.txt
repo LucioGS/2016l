@@ -1,0 +1,1 @@
+- Pasa pantalla preferidos a MVC
